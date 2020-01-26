@@ -13,7 +13,9 @@ This workshop is run in a Jupyter notebook. For minimal setup we will use [Googl
 
 In the new notebook page for google colab, chose Github Repo and enter the url of this repository https://github.com/leobrowning92/char-rnn-workshop and select `livecode_template.ipynb`.
 
-## Credits
+## Links
 
 The workshop is adapted from the [Pytorch NLP From Scratch: Classifying Names with a Character-Level RNN Tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html).
 Changes have been made to work better with a live coded format.
+
+Here are the [public version of the slides](https://docs.google.com/presentation/d/1JokAeKVy9pwjE30_WN405eDK2mF7DUUBWj1sFKgEK4U/edit?usp=sharing) that I use to explain various concepts throughtout
